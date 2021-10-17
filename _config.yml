@@ -19,7 +19,7 @@ locale                   : "en-KR"
 title                    : "MPLS Studty History"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "안국환"
+name                     : ""
 description              : "직원들의 실력향상을 위한 스터디"
 url                      : "studyMpls.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
