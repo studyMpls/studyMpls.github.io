@@ -1,17 +1,43 @@
 # main links
 main:
-  - title: "Sample Posts"
-    url: /year-archive/
+  - title: "EMP Data"
+    url: /archive_employee/
     children:
-      - title: "Tags"
-        url: /tags/
-      - title: "About"
-        url: /about/
-      - title: "연도별 포스트"
-        url: /posts/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
-  - title: "Categories"
-    url: /categories/
+      - title: "최형원"
+        url: /ChoiHW/
+      - title: "박병율"
+        url: /ParkBY/
+      - title: "이준호"
+        url: /LeeJH/
+      - title: "원종현"
+        url: /WonJH/
+      - title: "임수연"
+        url: /LimSY/
+      - title: "임병찬"
+        url: /LimBC/
+      - title: "조기설"
+        url: /ChoGS/
+  - title: "Pantos Data"
+    url: /archive_panthos/
+    children:
+      - title: "TMS"
+        url : /tms/
+      - title: "WMS"
+        url : /wms/
+      - title: "OMS"
+        url : /oms/
+      - title: "IS"
+        url : /is/
+      - title: "EC"
+        url : /ec/
+      - title: "FWD"
+        url : /fwd/
+  - title: "본사"
+    url: /archive_h_office/
+    children:
+      - title: "Project1"
+        url: /project1/
+      - title: "Project2"
+        url: /project2/
+  - title: "ETC"
+    url: /archive_etc/
