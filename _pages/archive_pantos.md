@@ -1,7 +1,7 @@
 ---
-title: "본사"
+title: "Pantos"
 layout: categories
-permalink: /h_office/
+permalink: /pantos/
 author_profile: true
 sidebar_main: true
 ---

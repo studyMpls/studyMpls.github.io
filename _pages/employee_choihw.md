@@ -1,7 +1,7 @@
 ---
-title: "본사"
+title: "개인 자료"
 layout: categories
-permalink: /h_office/
+permalink: /employee/
 author_profile: true
 sidebar_main: true
 ---

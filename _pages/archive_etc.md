@@ -1,6 +1,7 @@
 ---
 title: "기타"
-permalink: /archive_etc/
-layout: posts
+layout: categories
+permalink: /etc/
 author_profile: true
+sidebar_main: true
 ---

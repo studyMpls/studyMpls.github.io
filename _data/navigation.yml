@@ -1,43 +1,43 @@
 # main links
 main:
-  - title: "EMP Data"
-    url: /archive_employee/
-    children:
-      - title: "최형원"
-        url: /ChoiHW/
-      - title: "박병율"
-        url: /ParkBY/
-      - title: "이준호"
-        url: /LeeJH/
-      - title: "원종현"
-        url: /WonJH/
-      - title: "임수연"
-        url: /LimSY/
-      - title: "임병찬"
-        url: /LimBC/
-      - title: "조기설"
-        url: /ChoGS/
-  - title: "Pantos Data"
-    url: /archive_panthos/
-    children:
-      - title: "TMS"
-        url : /tms/
-      - title: "WMS"
-        url : /wms/
-      - title: "OMS"
-        url : /oms/
-      - title: "IS"
-        url : /is/
-      - title: "EC"
-        url : /ec/
-      - title: "FWD"
-        url : /fwd/
+  - title: "EMP"
+    url: /employee/
+    # children:
+      # - title: "최형원"
+      #   url: /ChoiHW/
+      # - title: "박병율"
+      #   url: /ParkBY/
+      # - title: "이준호"
+      #   url: /LeeJH/
+      # - title: "원종현"
+      #   url: /WonJH/
+      # - title: "임수연"
+      #   url: /LimSY/
+      # - title: "임병찬"
+      #   url: /LimBC/
+      # - title: "조기설"
+      #   url: /ChoGS/
+  - title: "Pantos"
+    url: /pantos/
+    # children:
+    #   - title: "TMS"
+    #     url : /tms/
+    #   - title: "WMS"
+    #     url : /wms/
+    #   - title: "OMS"
+    #     url : /oms/
+    #   - title: "IS"
+    #     url : /is/
+    #   - title: "EC"
+    #     url : /ec/
+    #   - title: "FWD"
+    #     url : /fwd/
   - title: "본사"
-    url: /archive_h_office/
-    children:
-      - title: "Project1"
-        url: /project1/
-      - title: "Project2"
-        url: /project2/
+    url: /h_office/
+    # children:
+    #   - title: "Project1"
+    #     url: /project1/
+    #   - title: "Project2"
+    #     url: /project2/
   - title: "ETC"
-    url: /archive_etc/
+    url: /etc/

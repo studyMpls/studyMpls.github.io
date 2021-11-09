@@ -112,24 +112,31 @@ author:
   location         : "Republic of Korea in MPLS"
   email            :
   links:
-    - label: "Email"
+    - label: "Git Hub 참조"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/ansohxxn"
+    - label: "Git Setting 참조"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "https://honbabzone.com/jekyll/start-gitHubBlog/#navigation-%EC%84%A4%EC%A0%95"
+    - label: "목표 블로그"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "https://ansohxxn.github.io/"
+
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   # url: "https://your-website.com"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   # url: "https://twitter.com/"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   # url: "https://facebook.com/"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   # url: "https://github.com/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   # url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -293,6 +300,8 @@ defaults:
       share: true
       related: true
       popular: false
+      mathjax: true
+      sidebar_main: true
 
   # _pages
   - scope:
